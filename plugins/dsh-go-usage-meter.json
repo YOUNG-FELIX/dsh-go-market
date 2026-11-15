@@ -10,5 +10,10 @@
     "en": "Provider balances, token usage and spend in the composer strip and a native panel. Built in for DeepSeek, Doubao, WorkBuddy and Trae; add OpenRouter, SiliconFlow, Volcengine Ark, Moonshot, Zhipu, Hunyuan or a custom balance endpoint. Spend is computed locally from a ledger using a built-in official price table with peak/off-peak rates and a configurable FX rate, keeping money and credits separate."
   },
   "category": "productivity",
-  "screenshots": []
+  "screenshots": [
+    "https://raw.githubusercontent.com/YOUNG-FELIX/dsh-go-market/assets/docs/usage-meter/composer-strip.jpg",
+    "https://raw.githubusercontent.com/YOUNG-FELIX/dsh-go-market/assets/docs/usage-meter/usage-panel.jpg",
+    "https://raw.githubusercontent.com/YOUNG-FELIX/dsh-go-market/assets/docs/usage-meter/spend-donut.jpg",
+    "https://raw.githubusercontent.com/YOUNG-FELIX/dsh-go-market/assets/docs/usage-meter/spend-bars.jpg"
+  ]
 }
