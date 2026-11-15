@@ -1,0 +1,14 @@
+{
+  "name": "dsh-go-usage-meter",
+  "version": "0.9.4",
+  "title": {
+    "zh": "模型用量",
+    "en": "Usage meter"
+  },
+  "summary": {
+    "zh": "在输入框胶囊和原生面板中查看各供应商的 token 用量、花费与余额，支持 DeepSeek、豆包、WorkBuddy、Trae 与自定义余额接口。",
+    "en": "Token usage, spend and provider balances for DeepSeek, Doubao, WorkBuddy, Trae and custom balance endpoints, shown in the composer strip and a native panel."
+  },
+  "category": "productivity",
+  "screenshots": []
+}
