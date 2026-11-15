@@ -6,8 +6,8 @@
     "en": "Usage meter"
   },
   "summary": {
-    "zh": "在输入框胶囊和原生面板中查看各供应商的 token 用量、花费与余额，支持 DeepSeek、豆包、WorkBuddy、Trae 与自定义余额接口。",
-    "en": "Token usage, spend and provider balances for DeepSeek, Doubao, WorkBuddy, Trae and custom balance endpoints, shown in the composer strip and a native panel."
+    "zh": "在输入框胶囊和原生面板里查看各供应商的余额、token 用量与花费：内置 DeepSeek、豆包、WorkBuddy、Trae，也可添加 OpenRouter、硅基流动、火山方舟、月之暗面、智谱、混元或自定义余额接口；花费由本地账本按内置官方价目表（含峰谷价与汇率）折算，钱与积分的账分开记。",
+    "en": "Provider balances, token usage and spend in the composer strip and a native panel. Built in for DeepSeek, Doubao, WorkBuddy and Trae; add OpenRouter, SiliconFlow, Volcengine Ark, Moonshot, Zhipu, Hunyuan or a custom balance endpoint. Spend is computed locally from a ledger using a built-in official price table with peak/off-peak rates and a configurable FX rate, keeping money and credits separate."
   },
   "category": "productivity",
   "screenshots": []
